@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "78955712918",
-    "project_id": "ankitstore-487e7",
-    "storage_bucket": "ankitstore-487e7.firebasestorage.app"
+    "project_number": "273863658271",
+    "project_id": "ankitstore-new",
+    "storage_bucket": "ankitstore-new.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:78955712918:android:6ccb25b4c9ea72dff38db7",
+        "mobilesdk_app_id": "1:273863658271:android:d4699df720ffcaf886fe2a",
         "android_client_info": {
-          "package_name": "com.Ankitstore.app"
+          "package_name": "com.ankit.ankitstore"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCGSc8IcJpCe1aw8x_DlZxNd275wC8zfuE"
+          "current_key": "AIzaSyBVofX6wRdXlQCJ9uy0TfmAHeMFV3jrHaM"
         }
       ],
       "services": {

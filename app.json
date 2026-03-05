@@ -13,7 +13,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.ankitexpo155.Ankitstore",
+      "bundleIdentifier": "com.ankit.ankitstore",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -27,7 +27,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.ankitexpo155.Ankitstore",
+      "package": "com.ankit.ankitstore",
       "googleServicesFile": "./google-services.json"
     },
     "web": {
@@ -60,6 +60,12 @@
       "eas": {
         "projectId": "150ca9ec-72ae-4068-8dbc-1d736dbfd8ac"
       }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/150ca9ec-72ae-4068-8dbc-1d736dbfd8ac"
     }
   }
 }
